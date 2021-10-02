@@ -2,13 +2,8 @@ hihi
 haha
 hehe
 kaka
-<<<<<<< HEAD
 
 có 122333
-=======
-123 45asfdfkjdfvdv
-có 436473647377
->>>>>>> 8f29086ae333222aefe1c0b3cb51117f09a17698
 bạn có rảnh có
 hello
 hello
